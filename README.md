@@ -1,1 +1,1 @@
-** <h1 style="text-align:center;">TCP-based Chat Service</h1> **
+<h1 style="text-align:center;">TCP-based Chat Service</h1>
